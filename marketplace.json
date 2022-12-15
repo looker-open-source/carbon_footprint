@@ -20,7 +20,7 @@
   },
   "models": [
     {
-      "name": "gcp_carbon",
+      "name": "gcp_carbon_footprint",
       "connection_constant": "CONNECTION_NAME"
     }
   ]
